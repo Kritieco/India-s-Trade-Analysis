@@ -20,7 +20,7 @@ using Python.
 This project analyses 184,000+ records of India's merchandise 
 export data sourced from Kaggle (UN Comtrade / Ministry of 
 Commerce). The goal is to identify key export markets, 
-top commodities, growth trends, and forecast future exports — 
+top commodities, growth trends, and forecast future exports
 framed as a consulting-style market analysis.
 
 ## Key Findings
