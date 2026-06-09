@@ -24,29 +24,29 @@ top commodities, growth trends, and forecast future exports —
 framed as a consulting-style market analysis.
 
 ## Key Findings
-- USA is India's largest export market with a 14.7% share, 
+ USA is India's largest export market with a 14.7% share, 
   followed by UAE (9.9%) and China (4.9%)
-- Mineral Fuels and Oils is the top exported commodity, 
+ Mineral Fuels and Oils is the top exported commodity, 
   followed by Natural Pearls and Nuclear Reactors and Machinery
-- India's exports grew from ~250,000 to ~420,000 USD Million 
+India's exports grew from approx 250,000 to approx 420,000 USD Million 
   between 2010 and 2021, with a dip in 2015-2016 and 2019-2020
-- Linear regression model forecasts exports reaching 
+ Linear regression model forecasts exports reaching 
   363,959 USD Million by 2024
-- Congo D. Rep. shows the highest CAGR among all export 
+ Congo D. Rep. shows the highest CAGR among all export 
   partners over 2010-2021
 
 ## Tools and Technologies
-- Python 3
-- pandas — data cleaning and analysis
-- matplotlib and seaborn — data visualisation
-- scikit-learn — linear regression forecasting
-- Jupyter Notebook — interactive analysis environment
+Python 3
+pandas for data cleaning and analysis
+matplotlib and seaborn for data visualisation
+scikit-learn for linear regression forecasting
+Jupyter Notebook for interactive analysis environment
 
 ## Files
-- Tradeanalysis.ipynb — complete Python analysis notebook
-- india_exports_charts.png — all 6 visualisation charts
-- india_exports_clean.xlsx — cleaned summary data with 
-  4 sheets (Yearly Trend, Top Countries, Top Commodities, 
+ Tradeanalysis.ipynb shows complete Python analysis notebook
+india_exports_charts.png shows all 6 visualisation charts
+india_exports_clean.xlsx shows cleaned summary data with 
+ 4 sheets (Yearly Trend, Top Countries, Top Commodities, 
   CAGR by Country)
 
 ## Analysis Performed
