@@ -7,9 +7,9 @@ covering HS commodity codes and partner countries.
 Python, pandas, matplotlib, seaborn, scikit-learn
 
 ## Files
- Tradeanalysis.ipynb — full Python analysis notebook
- india_exports_charts.png — visualisation output
- india_exports_clean.xlsx — cleaned summary data
+ Tradeanalysis.ipynb shows full Python analysis notebook
+ india_exports_charts.png shows visualisation output
+ india_exports_clean.xlsx shows cleaned summary data
 # India Export Trade Analysis (2010–2021)
 
 An end-to-end data analysis project exploring India's export 
@@ -50,7 +50,7 @@ india_exports_clean.xlsx shows cleaned summary data with
   CAGR by Country)
 
 ## Analysis Performed
-1. Data cleaning — handled 184,000+ rows, removed blanks, 
+1. Data cleaning :handled 184,000+ rows, removed blanks, 
    standardised column names
 2. Yearly export trend (2010-2021) with YoY growth %
 3. Top 10 export partner countries by total value
