@@ -47,7 +47,7 @@ Jupyter Notebook for interactive analysis environment
 india_exports_charts.png shows all 6 visualisation charts
 india_exports_clean.xlsx shows cleaned summary data with 
  4 sheets (Yearly Trend, Top Countries, Top Commodities, 
-  CAGR by Country)
+  CAGR by Country) 
 
 ## Analysis Performed
 1. Data cleaning :handled 184,000+ rows, removed blanks, 
@@ -59,6 +59,8 @@ india_exports_clean.xlsx shows cleaned summary data with
 6. Country share of total exports
 7. Correlation matrix across trade variables
 8. Linear regression forecast for 2022-2024
+## Dashboard Preview
+[India Export Analysis Dashboard](india_exports_charts.png)
 
 ## Data Source
 Kaggle — India Export Data 2010-2021 (HS2 level)
